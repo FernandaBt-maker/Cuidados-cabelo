@@ -6,3 +6,7 @@ tabs.forEach((tab) => {
         tab.classList.add("active");
     });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Site de cuidados com o cabelo carregado com sucesso! Aproveite");
+});
